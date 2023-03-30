@@ -75,6 +75,9 @@ h3 {
     text-align: center;
     padding-top: 10px;
 }
+#novita p {
+    margin: 0 20px;
+}
 form {
     text-align: center;
 }
