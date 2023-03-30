@@ -20,6 +20,7 @@ body {
 #primo, #secondo, #terzo {
     padding: 20px;
     margin-bottom: 30px;
+    box-shadow: 5px 5px 20px black;    
 }
 img {
     padding-top: 40px;
